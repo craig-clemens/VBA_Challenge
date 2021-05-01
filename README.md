@@ -24,10 +24,10 @@ Although the total lines of code is greater, the code itself is cleaner - benefi
 
 
 
-###2017
+### 2017
 
 ![VBA_Challenge_2017.PNG](https://github.com/craig-clemens/VBA_Challenge/blob/main/Resources/VBA_Challenge_2017.PNG)
 
-###2018
+### 2018
 
 ![VBA_Challenge_2018.PNG](https://github.com/craig-clemens/VBA_Challenge/blob/main/Resources/VBA_Challenge_2018.PNG)
